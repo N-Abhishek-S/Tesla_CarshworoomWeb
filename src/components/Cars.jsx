@@ -42,7 +42,7 @@ export default function Cars() {
       id: 4,
       name: 'Model Y',
       description: 'Versatile, spacious and efficient with room for up to seven passengers and their cargo.',
-      image: 'https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Model-Y-Main-Hero-Desktop-LHD.jpg',
+      image: 'https://autovista24.autovistagroup.com/wp-content/uploads/sites/5/2022/03/0x0-ModelY-05-cropped.jpg',
       specs: [
         { value: '330 mi', label: 'Range' },
         { value: '3.5s', label: '0-60 mph' },
@@ -53,7 +53,7 @@ export default function Cars() {
       id: 5,
       name: 'Cybertruck',
       description: 'Built with an exterior shell made for ultimate durability and passenger protection.',
-      image: 'https://digitalassets.tesla.com/tesla-contents/ima+ge/upload/f_auto,q_auto/Cybertruck-Main-Hero-Desktop.jpg',
+      image: 'https://stimg.cardekho.com/images/carexteriorimages/930x620/Tesla/Cybertruck/7236/1752554727590/front-left-side-47.jpg',
       specs: [
         { value: '500+ mi', label: 'Range' },
         { value: '2.9s', label: '0-60 mph' },
@@ -64,7 +64,7 @@ export default function Cars() {
       id: 6,
       name: 'Roadster',
       description: 'The quickest car in the world, with record-setting acceleration, range and performance.',
-      image: 'https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Roadster-Main-Hero-Desktop.jpg',
+      image: 'https://s1.cdn.autoevolution.com/images/news/tesla-roadster-ii-already-has-competition-1360-hp-ev-will-do-60-in-2-seconds-121837_1.jpg',
       specs: [
         { value: '620 mi', label: 'Range' },
         { value: '1.9s', label: '0-60 mph' },

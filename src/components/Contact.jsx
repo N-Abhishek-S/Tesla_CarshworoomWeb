@@ -37,19 +37,18 @@ const Contact = () => {
           </div>
           
           <div className="mb-8">
-            <label htmlFor="subject" className="block font-medium mb-3 text-gray-900 text-sm">
-              Subject
-            </label>
-            <select
-              id="subject"
-              className="w-full px-4 py-3 rounded-md border border-gray-200 bg-gray-50 focus:outline-none focus:border-red-600 focus:ring-2 focus:ring-red-100 transition-all appearance-none"
-            >
-              <option value="" disabled selected>Select a topic</option>
-              <option value="test-drive">Schedule Test Drive</option>
-              <option value="order">Order Inquiry</option>
-              <option value="support">Customer Support</option>
-              <option value="other">Other</option>
-            </select>
+       <select
+  id="subject"
+  defaultValue=""
+  className="w-full px-4 py-3 rounded-md border border-gray-200 bg-gray-50 focus:outline-none focus:border-red-600 focus:ring-2 focus:ring-red-100 transition-all appearance-none"
+>
+  <option value="" disabled>Select a topic</option>
+  <option value="test-drive">Schedule Test Drive</option>
+  <option value="order">Order Inquiry</option>
+  <option value="support">Customer Support</option>
+  <option value="other">Other</option>
+</select>
+
           </div>
           
           <div className="mb-8">
