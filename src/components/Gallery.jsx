@@ -1,5 +1,5 @@
-import { useState, useEffect } from 'react';
-import { FaCar, FaBars, FaTimes, FaFacebookF, FaTwitter, FaInstagram, FaYoutube } from 'react-icons/fa';
+import { useState } from 'react';
+import { FaFacebookF, FaTwitter, FaInstagram, FaYoutube } from 'react-icons/fa';
 import Footer from './Footer';
 
 const GalleryPage = () => {

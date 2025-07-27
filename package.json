@@ -1,5 +1,6 @@
 {
   "name": "tesla-carshowroom",
+  "homepage": "https://N-Abhishek-S.github.io/Tesla_CarshworoomWeb",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,8 +12,8 @@
   },
   "dependencies": {
     "@tailwindcss/postcss": "^4.1.7",
-    "react": "^19.1.0",
-    "react-dom": "^19.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-helmet": "^6.1.0",
     "react-helmet-async": "^2.0.5",
     "react-icons": "^5.5.0",
