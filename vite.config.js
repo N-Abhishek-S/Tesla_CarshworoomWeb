@@ -15,5 +15,12 @@ export default defineConfig({
   },
   optimizeDeps: {
     exclude: ['*.jpg', '*.png'], // Don't optimize external images
+  },
+  css: {
+    preprocessorOptions: {
+      scss: {
+        additionalData: `@import "@fortawesome/fontawesome-free/css/all.min.css";`
+      }
+    }
   }
 });
