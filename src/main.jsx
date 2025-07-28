@@ -8,8 +8,7 @@ import Gallery from './components/Gallery.jsx';
 import Contact from './components/Contact.jsx';
 import About from './components/About.jsx';
 import Cars from './components/Cars.jsx';
-import "@fortawesome/fontawesome-free/css/all.min.css";
-
+import "@fortawesome/fontawesome-free/css/all.css";
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <HashRouter>
